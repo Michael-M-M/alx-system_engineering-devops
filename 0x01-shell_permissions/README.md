@@ -1,1 +1,1 @@
-abela man
+shell permission
